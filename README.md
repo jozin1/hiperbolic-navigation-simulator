@@ -5,7 +5,7 @@ PRZEZNACZENIE:
 
 GŁÓWNE FUNKCJE:
 
-•	Zaznaczanie punktów w układzie współrzędnym
+•	Zaznaczanie punktów w układzie współrzędnych
 
 •	Edycja współrzędnych punktów przez kliknięcie na wykres lub za pomocą przycisków
 
